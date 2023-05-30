@@ -1,7 +1,10 @@
 # Practice
-test22
+ test-12
+test12
 
-This is the 2nd branch of Practice main branch..
+test22
+ test2
+
 
 This is the 1st branch of Practice main branch
-
+This is the 1st branch of test1
