@@ -1,7 +1,3 @@
 # Practice
 
-text2
-jhyrfjl
-uyfgjknk
-prmgjhyjyj
-
+This is the 1st branch of Practice main branch
